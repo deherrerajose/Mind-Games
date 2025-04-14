@@ -1,2 +1,1 @@
-# Mind-Games
 Mind-Games. A 3D puzzle-platformer set in a surreal, dreamlike world. Players manipulate gravity, portals, and shifting architectures to traverse mysterious levels and solve mind-bending puzzles. This repository contains the Unity project files, including assets and scripts, that bring the bizarre landscapes of Mind-Games to life.
